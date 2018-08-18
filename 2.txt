@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 1a
 2a
 3a
 4acdefg
+=======
+1ab
+2ab
+3ab
+4aBCDefg
+>>>>>>> feature01
