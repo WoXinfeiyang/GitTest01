@@ -1,5 +1,5 @@
-1abf
-2baf
-3abf
-4AbCDefgHIJKLMNopq
+1ac
+2ac
+3ac
+4ABCEDFG
 Creating a new branch is quick AND simple.
