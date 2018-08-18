@@ -2,3 +2,4 @@
 2baf
 3abf
 4AbCDefgHIJKLMNopq
+Creating a new branch is quick & simple.
